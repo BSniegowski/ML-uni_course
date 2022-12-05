@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Datasets
+lab/MNIST
+lab/FashionMNIST
+
 #PyCharm IDEA
 .idea
 
