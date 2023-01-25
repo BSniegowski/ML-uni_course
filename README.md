@@ -1,3 +1,3 @@
-# Machine Learning course
+# Machine Learning course on Jagiellonian University
 
-Repository for posting solutions to exercises and (in the near future) a project.
+Repository for posting solutions to exercises and a project (details in corresponding folder).
